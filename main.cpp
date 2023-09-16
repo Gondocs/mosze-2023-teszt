@@ -24,6 +24,8 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
 
     delete[] b;
+    
+    std::cout << "Készen van az 5. feladat!" << std::endl;
 
     return 0;
 }
